@@ -287,6 +287,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true # post 게시물에 comments 기능을 사용하겠다!
       share: true
       related: true
