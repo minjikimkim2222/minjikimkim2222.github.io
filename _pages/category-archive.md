@@ -1,5 +1,5 @@
 ---
-title : "Categorys"
+title : "Categories"
 
 layout : categories
 
