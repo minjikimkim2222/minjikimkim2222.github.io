@@ -6,7 +6,7 @@ categories:
     - Blog
 tags:
     - Blog
-    - github Pages
+    - github_Pages
 last_modified_at : 2023-12-01T08:06:00-05:00
 ---
 
