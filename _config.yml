@@ -30,7 +30,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments: # 댓글 기능 - Disque 댓글 기능 사용
-  provider               : false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus",
+  # 블로그 댓글 기능 "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : minjikimkim2222-github-io.disqus.com
   discourse:
