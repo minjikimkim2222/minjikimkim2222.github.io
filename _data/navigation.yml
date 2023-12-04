@@ -4,8 +4,8 @@ main:
     url: https://minjikimkim2222.github.io
   - title: "About"
     url: /about/
-  - title: "윤동주"
-    url: /categories/윤동주/
+  - title: "Spring"
+    url: /categories/spring/
   - title: "Categories"
     url: /categories/
   - title : "Tags"
