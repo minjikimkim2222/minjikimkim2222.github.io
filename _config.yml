@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "도전하는 개발자"
+  name             : "기록하는 개발자"
   avatar           : "/assets/images/cat.jpg"
-  bio              : "만들고 싶은 거 만들고, 배우는 새싹개발자🌱"
+  bio              : "오늘 배용 내용은 오늘 기록한다 📝"
   location         : "South Korea"
   email            :
   links:
